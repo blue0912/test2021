@@ -264,5 +264,4 @@ def uranai(input_text):
   return output_text
 
 def start():
-  run_chat(chat=myurunai)
-run_chat(chat=myuranai)    
+  run_chat(chat=uranai)     
